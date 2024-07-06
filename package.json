@@ -1,0 +1,11 @@
+{
+  "name": "chalk-css-colors",
+  "version": "1.0.0",
+  "description": "use css color name literals in chalk",
+  "main": "index.js",
+  "author": "Paul Wardrip <pwardrip@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
